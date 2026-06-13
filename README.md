@@ -1,6 +1,10 @@
-This project is build by Karan , Mayank, Shubh, Neritya
-# civic_issue_tracking_system
-=======
+# Civic Issue Tracking System
+The Project is submitted by:
+1) Karan Batra (22411018)
+2) Mayank Mandsourkar (22321018)
+3) Shubh Sharma (22411036)
+4) Neritya Kumar Singh (22410024)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
