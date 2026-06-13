@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+This project is build by Karan , Mayank, Shubh, Neritya
 # civic_issue_tracking_system
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
